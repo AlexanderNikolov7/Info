@@ -86,7 +86,7 @@
    * Модификатор команд, который выедет информацию о той команде, к которой был применён
 
    Примеры:
- *  git commit --info 
- *  git staus --info
+ *  git commit --help 
+ *  git staus --help
 
    
