@@ -2,6 +2,12 @@
 # Что такое git
 
 # Подготовка репозитория
+Прописать пльзователя
+* git config user.name "name"
+* git config user.email "emale@m.com"
+
+Прописать пользователя локально
+* git cinfig --local ...
 
 # Создание "Созранений"
 
